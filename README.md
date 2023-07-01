@@ -1,2 +1,2 @@
 # QuantumMLProject
-Personal Education Purposes
+CSE550 Stony Brook
